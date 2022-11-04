@@ -1,0 +1,17 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "solving all the problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "./node_modules/typescript/bin/tsc",
+    "build": "npm tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}
